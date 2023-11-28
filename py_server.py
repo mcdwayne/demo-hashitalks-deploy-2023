@@ -49,10 +49,7 @@ if __name__ == '__main__':
         run()
 
 
-
-# aws_access_key_id = AKIAWY56YWJJ4UYV2ZQL
-# aws_secret_access_key = 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
-
-
+# aws_access_key_id = AKIAVD32IN6IDJGYLI5N
+# aws_secret_access_key = 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
 
 
